@@ -1,0 +1,12 @@
+*~
+.vs/*
+PInvoke.VC.db
+PInvoke.VC.VC.opendb
+*.csproj.user
+*.
+*/bin/*
+*/obj/*
+**/Debug/*
+**/Release/*
+**/x64/Debug/*
+**/x64/Release/*
